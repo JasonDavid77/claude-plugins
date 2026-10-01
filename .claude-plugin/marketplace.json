@@ -10,8 +10,8 @@
     {
       "name": "weise",
       "source": {
-        "source": "github",
-        "repo": "JasonDavid77/der-weise"
+        "source": "url",
+        "url": "https://github.com/JasonDavid77/der-weise.git"
       },
       "description": "A tutor that teaches while you work: learn a tool or field on your real project, with explanations from scratch, a growing learning path and recall cards. Files stay local.",
       "category": "learning"

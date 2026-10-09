@@ -15,6 +15,16 @@
       },
       "description": "A tutor that teaches while you work: learn a tool or field on your real project, with explanations from scratch, a growing learning path and recall cards. Files stay local.",
       "category": "learning"
+    },
+    {
+      "name": "weise-agentische-kanzlei",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/JasonDavid77/weise-pakete.git",
+        "path": "plugins/weise-agentische-kanzlei"
+      },
+      "description": "Knowledge pack for the Weise tutor: eight AI-assisted research reports (German, as of 2026-10-01) on agentic AI in legal services. Data only; import it with /weise:paket.",
+      "category": "weise-paket"
     }
   ]
 }

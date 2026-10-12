@@ -25,6 +25,16 @@
       },
       "description": "Knowledge pack for the Weise tutor: eight AI-assisted research reports (German, as of 2026-10-01) on agentic AI in legal services. Data only; import it with /weise:paket.",
       "category": "weise-paket"
+    },
+    {
+      "name": "weise-copilot-agenten",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/JasonDavid77/weise-pakete.git",
+        "path": "plugins/weise-copilot-agenten"
+      },
+      "description": "Knowledge pack for the Weise tutor: unmodified Microsoft documentation (English, CC BY 4.0, as of 2026-10-02) on building agents for Microsoft 365 Copilot, with triggers and schedules in Power Automate, written descriptions of all images and German summaries on Copilot Studio. Data only; import it with /weise:paket.",
+      "category": "weise-paket"
     }
   ]
 }

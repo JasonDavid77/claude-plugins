@@ -17,6 +17,7 @@ Ein Wissenspaket ist fertiges Lernmaterial zu einem Thema. Es enthält nur Texte
 | Paket | Inhalt | Stand |
 |---|---|---|
 | `weise-agentische-kanzlei` | Agentische Kanzlei: acht Rechercheberichte zu agentischer KI in der Rechtsberatung (Deutsch) | 2026-10-01 |
+| `weise-copilot-agenten` | Copilot-Agenten bauen: Originaldokumentation von Microsoft zu Agenten für Microsoft 365 Copilot und zu Auslösern mit Power Automate (Englisch), alle Bilder schriftlich beschrieben, dazu Zusammenfassungen zu Copilot Studio (Deutsch) | 2026-10-02 |
 
 ## Installation
 
@@ -55,6 +56,7 @@ Tools that help you learn and work with AI on the job, built for people without 
 | Pack | Content | As of |
 |---|---|---|
 | `weise-agentische-kanzlei` | Agentic law firm: eight research reports on agentic AI in legal services (German) | 2026-10-01 |
+| `weise-copilot-agenten` | Building Copilot agents: original Microsoft documentation on agents for Microsoft 365 Copilot and on triggers with Power Automate (English), all images described in writing, plus summaries on Copilot Studio (German) | 2026-10-02 |
 
 **Install** (requires Claude Code and Git):
 
